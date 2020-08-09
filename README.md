@@ -1,4 +1,4 @@
-# runecast-sample
+# Photo-fetch
 
 ## Project setup
 ```
