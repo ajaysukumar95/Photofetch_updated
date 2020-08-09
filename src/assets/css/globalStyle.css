@@ -1,0 +1,37 @@
+body 
+{
+ font-family: "Roboto", sans-serif;
+}
+  
+/* Grid */
+.container-html {
+  max-width: 766px;
+  margin: 5% auto;
+}
+.row-html {
+  display: grid;
+  grid-template-columns: auto auto;
+}
+.col-html {
+  margin: 8px;
+}
+  
+/* Util class */
+.ml-sm-html {
+  margin-left: 8px;
+}
+.ma-0-html{
+  margin: 0px;
+}
+.mb-md-html{
+margin-bottom: 25px;
+}
+.align-right {
+  text-align: right;
+}
+.font-size-sm {
+  font-size: 14px;
+}
+.f-weight-light{
+  font-weight: 400;
+}
